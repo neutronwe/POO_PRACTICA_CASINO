@@ -19,3 +19,4 @@ public abstract class Juegos {
     //Metodo abstracto jugar
     protected abstract void jugar();
 }
+
