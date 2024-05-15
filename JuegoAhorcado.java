@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class JuegoAhorcado extends Juegos{  
     
-    private String[] palabras = {"programacion", "computadora", "java", "openai", "inteligencia", "artificial", "aprendizaje", "automatico"};
+    private String[] palabras = {"programacion", "computadora", "java", "teclado", "inteligencia", "sublime", "aprendizaje", "automatico"};
     private String palabraSecreta;
     private StringBuilder palabraAdivinada;
     private int intentosRestantes;
